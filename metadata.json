@@ -1,0 +1,8 @@
+{
+  "name": "Kova",
+  "description": "Kova is a visual social media platform with real-time messaging, multimodal AI content understanding, an integrated AI web browser, and an AI administrative console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
